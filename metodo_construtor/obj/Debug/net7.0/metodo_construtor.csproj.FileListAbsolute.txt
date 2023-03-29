@@ -1,0 +1,15 @@
+C:\Users\LAB4\Documents\metodo_construtor\bin\Debug\net7.0\metodo_construtor.exe
+C:\Users\LAB4\Documents\metodo_construtor\bin\Debug\net7.0\metodo_construtor.deps.json
+C:\Users\LAB4\Documents\metodo_construtor\bin\Debug\net7.0\metodo_construtor.runtimeconfig.json
+C:\Users\LAB4\Documents\metodo_construtor\bin\Debug\net7.0\metodo_construtor.dll
+C:\Users\LAB4\Documents\metodo_construtor\bin\Debug\net7.0\metodo_construtor.pdb
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.csproj.AssemblyReference.cache
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.AssemblyInfoInputs.cache
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.AssemblyInfo.cs
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.dll
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\refint\metodo_construtor.dll
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.pdb
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\metodo_construtor.genruntimeconfig.cache
+C:\Users\LAB4\Documents\metodo_construtor\obj\Debug\net7.0\ref\metodo_construtor.dll
