@@ -1,0 +1,15 @@
+C:\Users\LAB4\Documents\EMPRESTIMO\bin\Debug\net7.0\EMPRESTIMO.exe
+C:\Users\LAB4\Documents\EMPRESTIMO\bin\Debug\net7.0\EMPRESTIMO.deps.json
+C:\Users\LAB4\Documents\EMPRESTIMO\bin\Debug\net7.0\EMPRESTIMO.runtimeconfig.json
+C:\Users\LAB4\Documents\EMPRESTIMO\bin\Debug\net7.0\EMPRESTIMO.dll
+C:\Users\LAB4\Documents\EMPRESTIMO\bin\Debug\net7.0\EMPRESTIMO.pdb
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.csproj.AssemblyReference.cache
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.AssemblyInfoInputs.cache
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.AssemblyInfo.cs
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.dll
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\refint\EMPRESTIMO.dll
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.pdb
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\EMPRESTIMO.genruntimeconfig.cache
+C:\Users\LAB4\Documents\EMPRESTIMO\obj\Debug\net7.0\ref\EMPRESTIMO.dll
