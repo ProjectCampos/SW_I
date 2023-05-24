@@ -1,0 +1,15 @@
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\bin\Debug\net7.0\Exercício 1 (animais).exe
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\bin\Debug\net7.0\Exercício 1 (animais).deps.json
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\bin\Debug\net7.0\Exercício 1 (animais).runtimeconfig.json
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\bin\Debug\net7.0\Exercício 1 (animais).dll
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\bin\Debug\net7.0\Exercício 1 (animais).pdb
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).csproj.AssemblyReference.cache
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).GeneratedMSBuildEditorConfig.editorconfig
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).AssemblyInfoInputs.cache
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).AssemblyInfo.cs
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).csproj.CoreCompileInputs.cache
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).dll
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\refint\Exercício 1 (animais).dll
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).pdb
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\Exercício 1 (animais).genruntimeconfig.cache
+D:\S.W 1\Exercício de herança e polimorfismo\Exercício 1 (animais)\obj\Debug\net7.0\ref\Exercício 1 (animais).dll

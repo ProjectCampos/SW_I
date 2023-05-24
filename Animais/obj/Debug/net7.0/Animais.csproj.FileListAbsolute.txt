@@ -1,0 +1,15 @@
+C:\Users\LAB4\Documents\Animais\bin\Debug\net7.0\Animais.exe
+C:\Users\LAB4\Documents\Animais\bin\Debug\net7.0\Animais.deps.json
+C:\Users\LAB4\Documents\Animais\bin\Debug\net7.0\Animais.runtimeconfig.json
+C:\Users\LAB4\Documents\Animais\bin\Debug\net7.0\Animais.dll
+C:\Users\LAB4\Documents\Animais\bin\Debug\net7.0\Animais.pdb
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.csproj.AssemblyReference.cache
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.AssemblyInfoInputs.cache
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.AssemblyInfo.cs
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.dll
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\refint\Animais.dll
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.pdb
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\Animais.genruntimeconfig.cache
+C:\Users\LAB4\Documents\Animais\obj\Debug\net7.0\ref\Animais.dll
