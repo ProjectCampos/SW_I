@@ -1,0 +1,30 @@
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\bin\Debug\net6.0\Prestacao.exe
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\bin\Debug\net6.0\Prestacao.deps.json
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\bin\Debug\net6.0\Prestacao.runtimeconfig.json
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\bin\Debug\net6.0\Prestacao.dll
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\bin\Debug\net6.0\Prestacao.pdb
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.csproj.AssemblyReference.cache
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.AssemblyInfoInputs.cache
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.AssemblyInfo.cs
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.csproj.CoreCompileInputs.cache
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.dll
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\refint\Prestacao.dll
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.pdb
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\Prestacao.genruntimeconfig.cache
+C:\Users\Jayane\Downloads\SW1-main\SW1-main\Herança e Polimorfismo Atividade\Prestacao\obj\Debug\net6.0\ref\Prestacao.dll
+C:\Users\giova\Downloads\Prestacao\Prestacao\bin\Debug\net6.0\Prestacao.exe
+C:\Users\giova\Downloads\Prestacao\Prestacao\bin\Debug\net6.0\Prestacao.deps.json
+C:\Users\giova\Downloads\Prestacao\Prestacao\bin\Debug\net6.0\Prestacao.runtimeconfig.json
+C:\Users\giova\Downloads\Prestacao\Prestacao\bin\Debug\net6.0\Prestacao.dll
+C:\Users\giova\Downloads\Prestacao\Prestacao\bin\Debug\net6.0\Prestacao.pdb
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.csproj.AssemblyReference.cache
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.AssemblyInfoInputs.cache
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.AssemblyInfo.cs
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.csproj.CoreCompileInputs.cache
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.dll
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\refint\Prestacao.dll
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.pdb
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\Prestacao.genruntimeconfig.cache
+C:\Users\giova\Downloads\Prestacao\Prestacao\obj\Debug\net6.0\ref\Prestacao.dll
