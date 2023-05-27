@@ -1,0 +1,38 @@
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.exe
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.deps.json
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.runtimeconfig.json
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.dll
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.pdb
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.csproj.AssemblyReference.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.AssemblyInfoInputs.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.AssemblyInfo.cs
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.csproj.CoreCompileInputs.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.dll
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\refint\exercicio_contrato.dll
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.pdb
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.genruntimeconfig.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\exercicio_contrato\obj\Debug\net6.0\ref\exercicio_contrato.dll
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.csproj.AssemblyReference.cache
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.AssemblyInfoInputs.cache
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.AssemblyInfo.cs
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.csproj.CoreCompileInputs.cache
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.dll
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\refint\exercicio_contrato.dll
+C:\Users\giova\Downloads\Heran+ºa e Polimorfismo Atividade\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.pdb
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.csproj.AssemblyReference.cache
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.AssemblyInfoInputs.cache
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.AssemblyInfo.cs
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.csproj.CoreCompileInputs.cache
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.dll
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\refint\exercicio_contrato.dll
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.pdb
+C:\Users\giova\Downloads\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.exe
+C:\Users\giova\Downloads\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.deps.json
+C:\Users\giova\Downloads\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.runtimeconfig.json
+C:\Users\giova\Downloads\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.dll
+C:\Users\giova\Downloads\exercicio_contrato\bin\Debug\net6.0\exercicio_contrato.pdb
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\exercicio_contrato.genruntimeconfig.cache
+C:\Users\giova\Downloads\exercicio_contrato\obj\Debug\net6.0\ref\exercicio_contrato.dll
